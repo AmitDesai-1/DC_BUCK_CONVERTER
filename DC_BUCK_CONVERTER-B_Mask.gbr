@@ -1,0 +1,29 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
+%TF.CreationDate,2025-09-11T23:54:02+05:30*%
+%TF.ProjectId,DC_BUCK_CONVERTER,44435f42-5543-44b5-9f43-4f4e56455254,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2025-09-11 23:54:02*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.700000X1.700000*%
+%ADD11C,1.700000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J1*%
+X149200000Y-81375000D03*
+D11*
+X149200000Y-83915000D03*
+%TD*%
+D10*
+%TO.C,J2*%
+X172250000Y-83925000D03*
+D11*
+X172250000Y-81385000D03*
+%TD*%
+M02*
